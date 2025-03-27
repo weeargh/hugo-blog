@@ -8,6 +8,8 @@ title = 'AI and SaaS'
 
 A handful of friends and colleagues recently shared the same headline: Klarna is supposedly trading in standard software tools for AI. The buzz focuses on how AI—especially generative AI—has automated key operations and replaced some enterprise tools. This raises an obvious question: is AI about to make SaaS obsolete?
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We just had an epiphany: in a world of AI nothing will be as valuable as humans! <br><br>Ok you can laugh at us for realizing it so late, but we are going to kick off work to allow Klarna to become the best at offering a human to speak to!!!<br><br>So excited about this, more to come!</p>&mdash; Sebastian Siemiatkowski (@klarnaseb) <a href="https://twitter.com/klarnaseb/status/1890336313477361862?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 At first glance, it’s a tempting narrative. But if we look at how major technological changes have played out historically, we often see a more gradual shift. New solutions tend to layer on top of existing ones rather than instantly wiping them out.
 
 ## Looking Back to Look Ahead

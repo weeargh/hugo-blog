@@ -1,6 +1,6 @@
 +++
 date = '2025-03-26T16:03:00+07:00'
-draft = true
+draft = false
 title = 'Suwandi'
 +++
 
@@ -19,4 +19,4 @@ I have a background in process improvement, cost reduction, problem solving, sof
 
 ## This Blog
 
-This blog was created using Hugo, a fast and flexible static site generator. 
+This blog was created using Hugo, a fast and flexible static site generator.

@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'SuwandiNotes'
+theme = 'hugo-xmin'
+
+# Site parameters
+[params]
+  description = "Welcome to my personal blog where I share my thoughts and notes"
+  author = "Suwandi Soh"
+  footer = "&copy; [Suwandi Soh](https://suwanditalks.com) {Year} | [Twitter](https://twitter.com/suwandi)"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
